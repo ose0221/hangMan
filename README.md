@@ -1,2 +1,1 @@
-# hangMan
-hangman
+# hang
