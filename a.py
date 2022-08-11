@@ -182,3 +182,4 @@ if __name__=="__main__":
     game = Game()
     game.game()
     result=input("게임을 다시 진행하시겠습니까?")
+    //게임 진행 여부 확인 후 반복
